@@ -1,0 +1,6 @@
+CaptureAV
+*********
+
+This is the source code of CaptureAV, (see: http://www.mazbox.com/captureav/)
+
+It compiles with the current openframeworks 007 development github version (on mac only)
