@@ -1,0 +1,19 @@
+*.mode*
+*.pbxuser
+build/
+obj/
+*.o
+openFrameworks.a
+openFrameworksDebug.a
+openFrameworksUniversal.a
+*.app/
+
+
+
+apps/*/*/Debug Mac OS X
+apps/*/*/Release Mac OS X
+.DS_Store
+
+*.xcodeproj/*.mode1v3
+*.xcodeproj/*.pbxuser
+bin/record_cache
